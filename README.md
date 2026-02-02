@@ -80,31 +80,26 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 - Acessível em modo claro e escuro
 
 ---
-## 📱 Visual em Dispositivos
-
-| Desktop | Mobile |
-|--------|--------|
+## 
+<h2 align="center">📱 Visual do Sistema</h2>
 
 <p align="center">
-  <img src="LINK_DESKTOP" width="450">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg" width="140">   
-
+  <img 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELVeYaN8gueEUVaCYOMX7n3McD5GjRuqC7Q&s"
+    width="450"
+    alt="Visual Desktop"
+  >
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://previews.123rf.com/images/sak111/sak1111502/sak111150200221/36552599-mobile-phone-with-apps-on-white-background-cell-phone-illustration.jpg"
+    width="140"
+    alt="Visual Mobile"
+  >
+</p>
 
 <p align="center">
-  <img src="LINK_DESKTOP" width="450">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg" width="140">
+  <i>Layout responsivo — Desktop e Mobile</i>
 </p>
-
-
-  
-</p>
-
-
-
-
-
 
 *(Imagens ilustrativas — o sistema é totalmente responsivo)*
 
