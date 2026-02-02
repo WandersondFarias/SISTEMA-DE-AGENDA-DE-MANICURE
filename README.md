@@ -91,7 +91,16 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELVeYaN8gueEUVaCYOMX7n3McD5GjRuqC7Q&s" width="140">
 </p>
 
-  
+
+
+
+
+
+  <p align="center">
+  <img src="./images.jpeg" width="450">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELVeYaN8gueEUVaCYOMX7n3McD5GjRuqC7Q&s" width="140">
+</p>
 </p>
 
 *(Imagens ilustrativas — o sistema é totalmente responsivo)*
