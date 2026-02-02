@@ -84,7 +84,7 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 
 | Desktop | Mobile |
 |--------|--------|
-| ![Desktop](https://t3.ftcdn.net/jpg/01/56/55/24/360_F_156552441_xlhQ0Nr4kV1xrxzngI6IjpJ7aeZJQMfD.jpg) | ![Mobile](https://via.placeholder.com/200x400/121212/ffffff?text=Mobile+View) |
+| ![Desktop](https://learn.microsoft.com/pt-br/windows-hardware/design/images/desktop.png) | ![Mobile](https://via.placeholder.com/200x400/121212/ffffff?text=Mobile+View) |
 
 
   
