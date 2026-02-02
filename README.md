@@ -80,13 +80,7 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 - Acessível em modo claro e escuro
 
 ---
-![Desktop](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/images/desktop.png)
-
-
-<p align="center">
-  <img src="images/desktop.png" width="45%">
-  <img src="images/mobile.png" width="25%">
-</p>
+![Desktop](https://dl.com.br/portfolio-items/desktop-dl-advance/)
 
 <p align="center">
   <i>Imagens ilustrativas — sistema totalmente responsivo</i>
