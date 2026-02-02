@@ -86,7 +86,7 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 <p align="center">
   <img 
     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELVeYaN8gueEUVaCYOMX7n3McD5GjRuqC7Q&s"
-    width="450"
+    width="140"
     alt="Visual Desktop"
   >
   &nbsp;&nbsp;&nbsp;&nbsp;
