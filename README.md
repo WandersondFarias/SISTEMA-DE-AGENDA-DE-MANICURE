@@ -80,8 +80,9 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 - Acessível em modo claro e escuro
 
 ---
-![Desktop](https://dl.com.br/portfolio-items/desktop-dl-advance/)
-
+<p align="center">
+  <img src="./images.jpeg" width="120" />
+</p>
 <p align="center">
   <i>Imagens ilustrativas — sistema totalmente responsivo</i>
 </p>
