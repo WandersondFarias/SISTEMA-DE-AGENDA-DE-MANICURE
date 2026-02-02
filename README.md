@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./logo pamela.jpeg" width="500px" />
+  <img src="./logo pamela.jpeg" width="120" />
 </p>
 
 <p align="center">
@@ -84,7 +84,7 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 
 | Desktop | Mobile |
 |--------|--------|
-| ![Desktop](https://learn.microsoft.com/pt-br/windows-hardware/design/images/desktop.png) | ![Mobile](https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg) |
+| ![Desktop](https://learn.microsoft.com/pt-br/windows-hardware/design/images/desktop.png) | ![Mobile](https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg    "width="120") |
 
 
   
