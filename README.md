@@ -120,4 +120,24 @@ Este projeto é de uso livre para fins pessoais e comerciais.
     🚀 <b>Acessar Sistema Online</b>
   </a>
 </p>
-DESENVOLVIDO POR WANDERSON DE FARIAS
+
+<hr>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvido%20por-Wanderson%20de%20Farias-blue?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=flat&logo=github">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/SEU_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin">
+  </a>
+</p>
+
+<hr>
+
+
+
