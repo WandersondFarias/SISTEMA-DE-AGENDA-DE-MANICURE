@@ -80,10 +80,8 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 - Acessível em modo claro e escuro
 
 ---
+![Desktop](https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/images/desktop.png)
 
-## 📱 Visual em Dispositivos
-
-<h2>📱 Visual em Dispositivos</h2>
 
 <p align="center">
   <img src="images/desktop.png" width="45%">
