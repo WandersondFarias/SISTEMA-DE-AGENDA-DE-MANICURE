@@ -80,6 +80,12 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 - Acessível em modo claro e escuro
 
 ---
+## 📱 Visual em Dispositivos
+
+| Desktop | Mobile |
+|--------|--------|
+| ![Desktop](https://via.placeholder.com/400x200/e91e63/ffffff?text=Desktop+View) | ![Mobile](https://via.placeholder.com/200x400/121212/ffffff?text=Mobile+View) |
+
 <p align="center">
   <img src="./images.jpeg" width="120" />
 </p>
