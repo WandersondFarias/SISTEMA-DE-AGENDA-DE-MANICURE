@@ -99,7 +99,6 @@ Responsável: **Pamela Reis**
 
 DESENVOLVIDO POR WANDERSON DE FARIAS
 
-LINK DO SISTEMA ESTÚDIO RESIS UNHAS 
 
 ---
 
@@ -121,3 +120,4 @@ Este projeto é de uso livre para fins pessoais e comerciais.
     🚀 <b>Acessar Sistema Online</b>
   </a>
 </p>
+DESENVOLVIDO POR WANDERSON DE FARIAS
