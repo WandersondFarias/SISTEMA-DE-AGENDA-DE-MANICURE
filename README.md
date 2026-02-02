@@ -84,7 +84,7 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 
 | Desktop | Mobile |
 |--------|--------|
-| ![Desktop](https://learn.microsoft.com/pt-br/windows-hardware/design/images/desktop.png) | ![Mobile](https://via.placeholder.com/200x400/121212/ffffff?text=Mobile+View) |
+| ![Desktop](https://learn.microsoft.com/pt-br/windows-hardware/design/images/desktop.png) | ![Mobile](https://previews.123rf.com/images/shtanzman/shtanzman1205/shtanzman120500019/13735040-mobile-phone-with-blue-touchscreen-and-colorful-apps-3d-image.jpg) |
 
 
   
