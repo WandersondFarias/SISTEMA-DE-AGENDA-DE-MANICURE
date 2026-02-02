@@ -83,9 +83,16 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 
 ## 📱 Visual em Dispositivos
 
-| Desktop | Mobile |
-|--------|--------|
-| ![Desktop](https://via.placeholder.com/400x200/e91e63/ffffff?text=Desktop+View) | ![Mobile](https://via.placeholder.com/200x400/121212/ffffff?text=Mobile+View) |
+<h2>📱 Visual em Dispositivos</h2>
+
+<p align="center">
+  <img src="images/desktop.png" width="45%">
+  <img src="images/mobile.png" width="25%">
+</p>
+
+<p align="center">
+  <i>Imagens ilustrativas — sistema totalmente responsivo</i>
+</p>
 
 *(Imagens ilustrativas — o sistema é totalmente responsivo)*
 
