@@ -128,11 +128,11 @@ Este projeto é de uso livre para fins pessoais e comerciais.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/wandersondfarias">
     <img src="https://img.shields.io/badge/GitHub-Perfil-black?style=flat&logo=github">
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/SEU_LINK">
+  <a href="https://www.linkedin.com/in/wandersonfariaswf/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=flat&logo=linkedin">
   </a>
 </p>
