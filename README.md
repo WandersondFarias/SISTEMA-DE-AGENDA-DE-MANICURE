@@ -86,22 +86,25 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 |--------|--------|
 
 <p align="center">
-  <img src="./images.jpeg" width="450">
+  <img src="LINK_DESKTOP" width="450">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELVeYaN8gueEUVaCYOMX7n3McD5GjRuqC7Q&s" width="140">
-</p>
+  <img src="https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg" width="140">   
 
 
-
-
-
-
-  <p align="center">
-  <img src="./images.jpeg" width="450">
+<p align="center">
+  <img src="LINK_DESKTOP" width="450">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRELVeYaN8gueEUVaCYOMX7n3McD5GjRuqC7Q&s" width="140">
+  <img src="https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg" width="140">
 </p>
+
+
+  
 </p>
+
+
+
+
+
 
 *(Imagens ilustrativas — o sistema é totalmente responsivo)*
 
