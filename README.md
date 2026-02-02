@@ -1,3 +1,17 @@
+
+<p align="center">
+  <img src="./LOGO CALHAS SANTO EXPEDITO.jpg" width="120" />
+</p>
+
+<p align="center">
+  <a href="https://wandersondfarias.github.io/SISTEMA-DE-AGENDA-DE-MANICURE/" target="_blank">
+    🚀 <b>Acessar Sistema Online</b>
+  </a>
+</p>
+
+
+
+
 # 💅 Sistema de Agendamento para Salão de Unhas – Estúdio Reis Unhas
 
 Este projeto é um **sistema de agendamento completo e offline** desenvolvido especialmente para salões de unhas. Ele permite gerenciar clientes, horários, serviços, visualizar ganhos diários/mensais e acompanhar estatísticas — tudo em um único arquivo HTML, sem necessidade de internet após o carregamento inicial.
