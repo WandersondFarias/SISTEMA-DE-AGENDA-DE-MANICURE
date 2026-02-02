@@ -84,8 +84,12 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 
 | Desktop | Mobile |
 |--------|--------|
-| ![Desktop](https://learn.microsoft.com/pt-br/windows-hardware/design/images/desktop.png) | ![Mobile](https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg    "width="120") |
 
+<p align="center">
+  <img src="./images.jpeg" width="450">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.zst.com.br/thumbs/12/1c/37/-1347442557.jpg" width="140">
+</p>
 
   
 </p>
