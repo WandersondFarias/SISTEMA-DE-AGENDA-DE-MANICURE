@@ -84,7 +84,7 @@ Feito com foco em **usabilidade, design profissional e simplicidade**, ideal par
 
 | Desktop | Mobile |
 |--------|--------|
-| ![Desktop](https://via.placeholder.com/400x200/e91e63/ffffff?text=Desktop+View) | ![Mobile](https://via.placeholder.com/200x400/121212/ffffff?text=Mobile+View) |
+| ![Desktop](computador-desktop-icon-computer) | ![Mobile](https://via.placeholder.com/200x400/121212/ffffff?text=Mobile+View) |
 
 
   
